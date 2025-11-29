@@ -1,0 +1,34 @@
+{
+  "use": [
+    {
+      "id": "1f74",
+      "name": "Alisha",
+      "email": "alisha@gmail.com",
+      "password": "alisha@123"
+    },
+    {
+      "id": "9535",
+      "email": "bharat@gmail.com",
+      "name": "Bharat Tiwari",
+      "password": "bharat@123"
+    },
+    {
+      "id": "1a4a",
+      "email": "nisha@gmail.com",
+      "name": "Nisha",
+      "password": "nisha@123"
+    },
+    {
+      "id": "57ed",
+      "email": "mayank@gmail.com",
+      "name": "Mayank",
+      "password": "mayank@123"
+    },
+    {
+      "id": "60ad",
+      "email": "ritu@gmail.com",
+      "name": "Ritu",
+      "password": "ritu@123"
+    }
+  ]
+}
